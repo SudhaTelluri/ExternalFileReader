@@ -1,0 +1,14 @@
+<Credentials>
+	<user>
+		<emailaddress>mail1@email.com</emailaddress>
+		<password>mail5</password>
+	</user>
+	<user>
+		<emailaddress>mail2@gmail.com</emailaddress>
+		<password>mail2</password>
+	</user>
+	<user>
+		<emailaddress>mail3@email.com</emailaddress>
+		<password>mail3</password>
+	</user>
+</Credentials>
